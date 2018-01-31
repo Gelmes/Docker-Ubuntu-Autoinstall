@@ -1,5 +1,5 @@
 # Docker-Ubuntu-Autoinstall
-Automatically installs docker using the steps provided at https://docs.docker.com/install/linux/docker-ce/ubuntu
+Automatically installs docker using the steps provided at [this hopefully not broken link](https://docs.docker.com/install/linux/docker-ce/ubuntu)
 I have only tested on my machine so hopefully there is no issues with it.
 
 # One-Step Automated install
