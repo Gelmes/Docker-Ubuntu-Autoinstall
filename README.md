@@ -34,10 +34,11 @@ sudo apt-get install docker-ce
 ````
 
 # Check Installation
+Run the fallowing command
+
 `sudo docker run hello-world`
 
-You should see something like thHello from Docker!
-This message shows that your installation appears to be working correctly.
+You should see something like the fallowing. If not your best next bet is to fallow the docker guide.
 
 ```
 Hello from Docker!
