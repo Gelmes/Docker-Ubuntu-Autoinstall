@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+# shellcheck disable=SC1090
+
 sudo apt-get remove docker docker-engine docker.io
 
 sudo apt-get update
