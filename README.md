@@ -8,7 +8,7 @@ I have only tested on my machine so hopefully there is no issues with it.
 # Manual Install
 Fallow the guide [Here](https://docs.docker.com/install/linux/docker-ce/ubuntu) for details
 
-`
+```
 sudo apt-get remove docker docker-engine docker.io
 
 sudo apt-get update
@@ -31,4 +31,4 @@ sudo add-apt-repository \
 sudo apt-get update
 
 sudo apt-get install docker-ce
-`
+````
