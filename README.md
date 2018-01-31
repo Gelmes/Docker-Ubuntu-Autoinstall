@@ -40,7 +40,8 @@ You should see something like thHello from Docker!
 This message shows that your installation appears to be working correctly.
 
 ```
-To generate this message, Docker took the following steps:
+Hello from Docker!
+o generate this message, Docker took the following steps:
  1. The Docker client contacted the Docker daemon.
  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
     (amd64)
