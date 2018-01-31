@@ -42,7 +42,7 @@ You should see something like the fallowing. If not your best next bet is to fal
 
 ```
 Hello from Docker!
-o generate this message, Docker took the following steps:
+To generate this message, Docker took the following steps:
  1. The Docker client contacted the Docker daemon.
  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
     (amd64)
